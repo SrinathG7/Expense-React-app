@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Expense-React-app/static/css/main.1be556f9.chunk.css",
+    "main.js": "/Expense-React-app/static/js/main.050c5ea8.chunk.js",
+    "main.js.map": "/Expense-React-app/static/js/main.050c5ea8.chunk.js.map",
+    "runtime-main.js": "/Expense-React-app/static/js/runtime-main.13146d2f.js",
+    "runtime-main.js.map": "/Expense-React-app/static/js/runtime-main.13146d2f.js.map",
+    "static/js/2.a0ec5ba7.chunk.js": "/Expense-React-app/static/js/2.a0ec5ba7.chunk.js",
+    "static/js/2.a0ec5ba7.chunk.js.map": "/Expense-React-app/static/js/2.a0ec5ba7.chunk.js.map",
+    "static/js/3.3db20c06.chunk.js": "/Expense-React-app/static/js/3.3db20c06.chunk.js",
+    "static/js/3.3db20c06.chunk.js.map": "/Expense-React-app/static/js/3.3db20c06.chunk.js.map",
+    "index.html": "/Expense-React-app/index.html",
+    "static/css/main.1be556f9.chunk.css.map": "/Expense-React-app/static/css/main.1be556f9.chunk.css.map",
+    "static/js/2.a0ec5ba7.chunk.js.LICENSE.txt": "/Expense-React-app/static/js/2.a0ec5ba7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13146d2f.js",
+    "static/js/2.a0ec5ba7.chunk.js",
+    "static/css/main.1be556f9.chunk.css",
+    "static/js/main.050c5ea8.chunk.js"
+  ]
+}
